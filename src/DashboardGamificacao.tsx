@@ -578,29 +578,32 @@ export default function DashboardGamificacao() {
 
           <MagicCard className="p-6">
             <Section title="Engajamento geral" description="Indicadores percentuais">
-              <div className="grid gap-6 md:grid-cols-2">
-                <div className="h-[220px]">
+              <div className="grid gap-6 md:grid-cols-[minmax(0,280px)_minmax(0,1fr)] md:items-center">
+                <div className="mx-auto h-[260px] w-full max-w-[320px] md:h-[320px]">
                   <ResponsiveContainer width="100%" height="100%">
                     <RadialBarChart
-                      innerRadius="30%"
-                      outerRadius="90%"
-                      barSize={18}
+                      innerRadius="35%"
+                      outerRadius="100%"
+                      barSize={22}
                       data={derived.radialData}
                       startAngle={90}
                       endAngle={-270}
                     >
                       <PolarAngleAxis type="number" domain={[0, 100]} tick={false} />
-                      <RadialBar cornerRadius={18} background dataKey="value" />
+                      <RadialBar cornerRadius={24} background dataKey="value" />
                       <Legend
                         iconSize={12}
                         iconType="circle"
                         layout="vertical"
-                        align="right"
-                        verticalAlign="middle"
-                        wrapperStyle={{ color: "#cbd5f5", fontSize: "0.75rem" }}
+                        align="center"
+                        verticalAlign="bottom"
+                        wrapperStyle={{ color: "#cbd5f5", fontSize: "0.75rem", paddingTop: 12 }}
                       />
-                      <text x="50%" y="50%" textAnchor="middle" dominantBaseline="middle" fill="#e2e8f0">
+                      <text x="50%" y="45%" textAnchor="middle" dominantBaseline="middle" fill="#e2e8f0">
                         {formatPercent(derived.kpi.avatarRate)}
+                      </text>
+                      <text x="50%" y="57%" textAnchor="middle" fill="#94a3b8" fontSize={12}>
+                        Avatar escolhido
                       </text>
                     </RadialBarChart>
                   </ResponsiveContainer>

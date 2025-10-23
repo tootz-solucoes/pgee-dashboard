@@ -1,8 +1,10 @@
 import { motion, type HTMLMotionProps } from "framer-motion";
+import type { ReactNode } from "react";
 import { cn } from "@/lib/utils";
 
-type MagicCardProps = HTMLMotionProps<"div"> & {
+type MagicCardProps = Omit<HTMLMotionProps<"div">, "children"> & {
   spotlight?: boolean;
+  children?: ReactNode;
 };
 
 export function MagicCard({
@@ -22,7 +24,7 @@ export function MagicCard({
         "shadow-[0_0_80px_rgba(15,118,110,0.12)] backdrop-blur-xl",
         "before:pointer-events-none before:absolute before:inset-0 before:bg-gradient-to-br before:from-emerald-500/10 before:via-cyan-500/0 before:to-indigo-500/10",
         "after:pointer-events-none after:absolute after:-inset-px after:rounded-[inherit] after:border after:border-white/10",
-        className,
+        className
       )}
       {...props}
     >
