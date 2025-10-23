@@ -1,0 +1,488 @@
+{
+  "total_students": 607,
+  "avatar_selection_count": 235,
+  "stage_completion_counts": [
+    {
+      "stage_id": 1,
+      "stage_name": "Primeira Fase",
+      "users_count": 320
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Segunda Fase",
+      "users_count": 92
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "Terceira Fase",
+      "users_count": 0
+    },
+    {
+      "stage_id": 34,
+      "stage_name": "Fase Final ",
+      "users_count": 0
+    }
+  ],
+  "evidence_mission_completion_counts": [
+    {
+      "mission_id": 2,
+      "mission_name": "Analise uma História Inspiradora",
+      "users_count": 12
+    },
+    {
+      "mission_id": 38,
+      "mission_name": "Arte em Ação!",
+      "users_count": 0
+    },
+    {
+      "mission_id": 40,
+      "mission_name": "Caixa de Esperança",
+      "users_count": 0
+    },
+    {
+      "mission_id": 35,
+      "mission_name": "Desafio Final - Mostre o que Aprendeu!",
+      "users_count": 0
+    },
+    {
+      "mission_id": 1,
+      "mission_name": "Entreviste um colega ou empreendedor(a) próximo de você!",
+      "users_count": 0
+    },
+    {
+      "mission_id": 36,
+      "mission_name": "Geografia em Ação!",
+      "users_count": 0
+    },
+    {
+      "mission_id": 37,
+      "mission_name": "História em Ação!",
+      "users_count": 0
+    },
+    {
+      "mission_id": 34,
+      "mission_name": "Monte seu Currículo",
+      "users_count": 0
+    },
+    {
+      "mission_id": 39,
+      "mission_name": "Termômetro das Emoções",
+      "users_count": 2
+    }
+  ],
+  "school_user_counts": [
+    {
+      "school_id": 38,
+      "school_name": "Atitude Cooperação",
+      "users_count": 49
+    },
+    {
+      "school_id": 36,
+      "school_name": "Escola Estadual Belém Câmara",
+      "users_count": 41
+    },
+    {
+      "school_id": 39,
+      "school_name": "Escola Estadual Lauro de Castro",
+      "users_count": 67
+    },
+    {
+      "school_id": 37,
+      "school_name": "Escola Estadual Professora Maria Ilka de Moura",
+      "users_count": 68
+    },
+    {
+      "school_id": 34,
+      "school_name": "Escola Estadual Raimundo Soares",
+      "users_count": 82
+    },
+    {
+      "school_id": 1,
+      "school_name": "Escola Game Mind",
+      "users_count": 25
+    },
+    {
+      "school_id": 41,
+      "school_name": "Escola Municipal Adele de Oliveira",
+      "users_count": 62
+    },
+    {
+      "school_id": 35,
+      "school_name": "Escola Municipal Celestino Pimentel",
+      "users_count": 1
+    },
+    {
+      "school_id": 40,
+      "school_name": "Escola Municipal Professor Waldson José Bastos Pinheiro",
+      "users_count": 212
+    }
+  ],
+  "daily_login_completions": [
+    {
+      "date": "2025-07-26",
+      "completions": 1
+    },
+    {
+      "date": "2025-07-27",
+      "completions": 2
+    },
+    {
+      "date": "2025-07-28",
+      "completions": 3
+    },
+    {
+      "date": "2025-07-29",
+      "completions": 5
+    },
+    {
+      "date": "2025-07-30",
+      "completions": 1
+    },
+    {
+      "date": "2025-08-01",
+      "completions": 1
+    },
+    {
+      "date": "2025-08-04",
+      "completions": 2
+    },
+    {
+      "date": "2025-08-06",
+      "completions": 2
+    },
+    {
+      "date": "2025-08-07",
+      "completions": 1
+    },
+    {
+      "date": "2025-08-12",
+      "completions": 2
+    },
+    {
+      "date": "2025-08-15",
+      "completions": 1
+    },
+    {
+      "date": "2025-08-19",
+      "completions": 1
+    },
+    {
+      "date": "2025-08-25",
+      "completions": 3
+    },
+    {
+      "date": "2025-08-27",
+      "completions": 2
+    },
+    {
+      "date": "2025-08-28",
+      "completions": 5
+    },
+    {
+      "date": "2025-08-29",
+      "completions": 4
+    },
+    {
+      "date": "2025-09-01",
+      "completions": 6
+    },
+    {
+      "date": "2025-09-02",
+      "completions": 8
+    },
+    {
+      "date": "2025-09-03",
+      "completions": 4
+    },
+    {
+      "date": "2025-09-04",
+      "completions": 4
+    },
+    {
+      "date": "2025-09-05",
+      "completions": 2
+    },
+    {
+      "date": "2025-09-08",
+      "completions": 6
+    },
+    {
+      "date": "2025-09-09",
+      "completions": 2
+    },
+    {
+      "date": "2025-09-10",
+      "completions": 4
+    },
+    {
+      "date": "2025-09-11",
+      "completions": 5
+    },
+    {
+      "date": "2025-09-12",
+      "completions": 5
+    },
+    {
+      "date": "2025-09-15",
+      "completions": 1
+    },
+    {
+      "date": "2025-09-16",
+      "completions": 3
+    },
+    {
+      "date": "2025-09-17",
+      "completions": 3
+    },
+    {
+      "date": "2025-09-22",
+      "completions": 5
+    },
+    {
+      "date": "2025-09-23",
+      "completions": 2
+    },
+    {
+      "date": "2025-09-24",
+      "completions": 2
+    },
+    {
+      "date": "2025-09-26",
+      "completions": 8
+    },
+    {
+      "date": "2025-09-27",
+      "completions": 1
+    },
+    {
+      "date": "2025-09-28",
+      "completions": 3
+    },
+    {
+      "date": "2025-09-29",
+      "completions": 4
+    },
+    {
+      "date": "2025-10-01",
+      "completions": 67
+    },
+    {
+      "date": "2025-10-02",
+      "completions": 53
+    },
+    {
+      "date": "2025-10-03",
+      "completions": 3
+    },
+    {
+      "date": "2025-10-04",
+      "completions": 3
+    },
+    {
+      "date": "2025-10-05",
+      "completions": 3
+    },
+    {
+      "date": "2025-10-06",
+      "completions": 82
+    },
+    {
+      "date": "2025-10-07",
+      "completions": 25
+    },
+    {
+      "date": "2025-10-08",
+      "completions": 78
+    },
+    {
+      "date": "2025-10-09",
+      "completions": 42
+    },
+    {
+      "date": "2025-10-10",
+      "completions": 83
+    },
+    {
+      "date": "2025-10-11",
+      "completions": 14
+    },
+    {
+      "date": "2025-10-12",
+      "completions": 23
+    },
+    {
+      "date": "2025-10-13",
+      "completions": 257
+    },
+    {
+      "date": "2025-10-14",
+      "completions": 111
+    },
+    {
+      "date": "2025-10-15",
+      "completions": 95
+    },
+    {
+      "date": "2025-10-16",
+      "completions": 125
+    },
+    {
+      "date": "2025-10-17",
+      "completions": 63
+    },
+    {
+      "date": "2025-10-18",
+      "completions": 44
+    },
+    {
+      "date": "2025-10-19",
+      "completions": 51
+    },
+    {
+      "date": "2025-10-20",
+      "completions": 64
+    },
+    {
+      "date": "2025-10-21",
+      "completions": 36
+    },
+    {
+      "date": "2025-10-22",
+      "completions": 40
+    },
+    {
+      "date": "2025-10-23",
+      "completions": 24
+    }
+  ],
+  "new_registrations_counts": [
+    {
+      "date": "2025-07-27",
+      "registrations": 2
+    },
+    {
+      "date": "2025-07-28",
+      "registrations": 1
+    },
+    {
+      "date": "2025-07-29",
+      "registrations": 3
+    },
+    {
+      "date": "2025-07-30",
+      "registrations": 1
+    },
+    {
+      "date": "2025-08-28",
+      "registrations": 3
+    },
+    {
+      "date": "2025-08-29",
+      "registrations": 2
+    },
+    {
+      "date": "2025-09-01",
+      "registrations": 2
+    },
+    {
+      "date": "2025-09-02",
+      "registrations": 2
+    },
+    {
+      "date": "2025-09-03",
+      "registrations": 2
+    },
+    {
+      "date": "2025-09-08",
+      "registrations": 1
+    },
+    {
+      "date": "2025-09-16",
+      "registrations": 1
+    },
+    {
+      "date": "2025-09-22",
+      "registrations": 1
+    },
+    {
+      "date": "2025-09-26",
+      "registrations": 13
+    },
+    {
+      "date": "2025-10-01",
+      "registrations": 65
+    },
+    {
+      "date": "2025-10-02",
+      "registrations": 56
+    },
+    {
+      "date": "2025-10-06",
+      "registrations": 53
+    },
+    {
+      "date": "2025-10-07",
+      "registrations": 9
+    },
+    {
+      "date": "2025-10-08",
+      "registrations": 67
+    },
+    {
+      "date": "2025-10-09",
+      "registrations": 3
+    },
+    {
+      "date": "2025-10-10",
+      "registrations": 17
+    },
+    {
+      "date": "2025-10-11",
+      "registrations": 1
+    },
+    {
+      "date": "2025-10-12",
+      "registrations": 9
+    },
+    {
+      "date": "2025-10-13",
+      "registrations": 208
+    },
+    {
+      "date": "2025-10-14",
+      "registrations": 61
+    },
+    {
+      "date": "2025-10-15",
+      "registrations": 4
+    },
+    {
+      "date": "2025-10-16",
+      "registrations": 9
+    },
+    {
+      "date": "2025-10-17",
+      "registrations": 4
+    },
+    {
+      "date": "2025-10-18",
+      "registrations": 1
+    },
+    {
+      "date": "2025-10-20",
+      "registrations": 2
+    },
+    {
+      "date": "2025-10-21",
+      "registrations": 1
+    },
+    {
+      "date": "2025-10-22",
+      "registrations": 1
+    },
+    {
+      "date": "2025-10-23",
+      "registrations": 1
+    }
+  ]
+}
